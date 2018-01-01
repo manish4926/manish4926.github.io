@@ -104,7 +104,7 @@ $(document).on('ready', function () {
     });
     
     $('.element').typed({
-        strings: [ " Web Designer",  "  Web Developer"],
+        strings: [ "  Web Developer", " Web Designer",  "Full Stack Developer"],
         loop: true,
         showCursor: true,
         startDelay: 1000,
